@@ -1,6 +1,6 @@
-##In-browser Font iteration test
+In-browser Font iteration test
 
-###What is this?
+What is this?
 
 This script is a quick/work in progress method to quickly generate multiple versions of a html template so as to be quickly able to test iterations on screen in the early typeface design process.
 
