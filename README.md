@@ -1,6 +1,6 @@
-In-browser Font iteration test
+##In-browser Font iteration test
 
-What is this?
+####What is this?
 
 This script is a quick/work in progress method to quickly generate multiple versions of a html template so as to be quickly able to test iterations on screen in the early typeface design process.
 
@@ -18,7 +18,7 @@ The script writes a new output html file (default: testsite.html, changeable in 
 
 template.html shoudl not include the opening or closing <body> tag, or the <head> information. This is defined in the python and written during generation. Changes to this information can be made easily in buildHTMLIteration.py.
 
-###To run:
+####To run:
 
 Ensure you have the necessary files in the structure defined above, then cd to the directory containing these files and run: python buildHTMLIteration.py 
 
